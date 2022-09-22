@@ -28,7 +28,7 @@ public class Main {
 
         int c = v1 + b;
         System.out.println(c);
-
+        System.out.println("숙제");
     }
 }
 
